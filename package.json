@@ -1,3 +1,14 @@
-"dependencies": {
-  compile 'com.android.support:support-v4:+'
+{
+   "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-list-music",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badlee/cordova-ListMusic.git"
+  },
 }
