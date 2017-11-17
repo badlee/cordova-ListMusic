@@ -1,6 +1,8 @@
 {
-   "author": "",
-  "bundleDependencies": false,
+  "name": "cordova-list-music",
+  "version": "0.0.1",
+  "author": "",
+  "bundleDependencies": [],
   "cordova": {
     "id": "cordova-list-music",
     "platforms": [
@@ -10,5 +12,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/badlee/cordova-ListMusic.git"
-  },
+  }
 }
